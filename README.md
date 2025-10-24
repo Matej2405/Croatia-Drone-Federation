@@ -38,5 +38,3 @@ The project focuses on **speed, accessibility, and clean design**, using **Tailw
 | **Configuration** | tsconfig, postcss, and vite.config.ts |
 
 ---
-git clone https://github.com/Matej2405/croatia-drone-federation.git
-cd croatia-drone-federation
