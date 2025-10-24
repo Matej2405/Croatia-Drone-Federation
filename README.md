@@ -1,73 +1,42 @@
-# Welcome to your Lovable project
+# 🇭🇷 Croatia Drone Federation — Landing Page
 
-## Project info
+[![Framework](https://img.shields.io/badge/Vite-React-blue?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Language](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![UI](https://img.shields.io/badge/UI-shadcn%2Fui-black?logo=react&logoColor=white)](https://ui.shadcn.com/)
+[![CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Build Tool](https://img.shields.io/badge/Bundler-Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 
-**URL**: https://lovable.dev/projects/8106e8a9-5b88-4b95-8146-a868b6a6afab
+---
 
-## How can I edit this code?
+## 🚀 About the Project
 
-There are several ways of editing your application.
+**Croatia Drone Federation — Landing Page** is a modern, lightweight web application built with **Vite**, **React**, and **TypeScript**.  
+It serves as the **official landing page for the Croatia Drone Federation**, designed to present information about the organization, promote drone activities across Croatia, and provide clear calls to action for pilots, clubs, and partners.
 
-**Use Lovable**
+The project focuses on **speed, accessibility, and clean design**, using **TailwindCSS** and **shadcn/ui** for consistent styling and component architecture.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8106e8a9-5b88-4b95-8146-a868b6a6afab) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧠 Features
+- ✈️ Responsive and minimal design for all devices  
+- 🇭🇷 Federation branding and identity integration  
+- 📄 Informational sections for mission, goals, and membership  
+- 🧭 Built using the latest **React + Vite + TypeScript** stack  
+- 🎨 Styled with **TailwindCSS** and **shadcn/ui** for scalable component theming  
+- ⚡️ Optimized build process with **Vite** for lightning-fast performance  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧱 Tech Stack
+| Layer | Technology |
+|-------|-------------|
+| **Frontend Framework** | React (with Vite) |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS + shadcn/ui |
+| **Bundler** | Vite |
+| **Linting** | ESLint |
+| **Configuration** | tsconfig, postcss, and vite.config.ts |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8106e8a9-5b88-4b95-8146-a868b6a6afab) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+git clone https://github.com/Matej2405/croatia-drone-federation.git
+cd croatia-drone-federation
